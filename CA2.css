@@ -1,0 +1,44 @@
+#lime
+{
+    background-color: lime;
+}
+
+#lavender 
+{
+    background-color: lavender;
+}
+
+#crimson 
+{
+    background-color: Crimson;
+}
+
+#darkblue
+{
+    background-color: darkblue;
+}
+
+#teal 
+{
+    background-color: teal;
+}
+#rebeccapurple{
+    background-color: rebeccapurple;
+}
+#ghostwhite{
+    background-color: ghostwhite;
+}
+#aliceblue{
+    background-color : aliceblue;
+}
+#aquamarine
+{
+    background-color: aquamarine;
+}
+.box
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
